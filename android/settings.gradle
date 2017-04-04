@@ -1,0 +1,9 @@
+rootProject.name = 'react_native_sample'
+include ':react-native-youtube'
+project(':react-native-youtube').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-youtube/android')
+include ':react-native-fs'
+project(':react-native-fs').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-fs/android')
+include ':react-native-code-push'
+project(':react-native-code-push').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-code-push/android/app')
+
+include ':app'

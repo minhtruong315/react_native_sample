@@ -1,0 +1,30 @@
+[
+  {
+    "categoryId":1,
+    "title":"Action",
+  },
+  {
+    "categoryId":2,
+    "title":"Adventure",
+  },
+  {
+    "categoryId":3,
+    "title":"Animation",
+  },
+  {
+    "categoryId":4,
+    "title":"Biography",
+  },
+  {
+    "categoryId":5,
+    "title":"Comedy",
+  },
+  {
+    "categoryId":6,
+    "title":"Crime",
+  },
+  {
+    "categoryId":7,
+    "title":"Fantasy",
+  }
+]
